@@ -26,8 +26,8 @@ import android.view.animation.LinearInterpolator;
  * 高仿今日头条loading flash效果
  * 100%还原
  *
- * @author shamchu
- * @date 2018/6/28 上午9:29
+ * @author Ryan
+ * create by 2018/6/28 上午9:29
  */
 public class FlashView extends View {
 
