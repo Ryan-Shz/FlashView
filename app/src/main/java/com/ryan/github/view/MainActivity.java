@@ -1,4 +1,4 @@
-package com.sc.github.view;
+package com.ryan.github.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
