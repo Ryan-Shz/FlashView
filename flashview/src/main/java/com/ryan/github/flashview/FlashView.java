@@ -1,4 +1,4 @@
-package com.ryan.github.view;
+package com.ryan.github.flashview;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;

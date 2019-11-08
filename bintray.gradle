@@ -1,0 +1,16 @@
+apply plugin: 'com.novoda.bintray-release'
+
+//添加
+publish {
+    userOrg = 'ryan-shz'
+    repoName = 'Ryan'
+    groupId = 'com.ryan.github'
+    artifactId = 'flashview'
+    publishVersion = '1.0.0'
+    desc = '100%还原今日头条loading flash效果'
+    website = 'https://github.com/Ryan-Shz/FlashView'
+}
+
+tasks.withType(Javadoc).all {
+    enabled = false
+}
