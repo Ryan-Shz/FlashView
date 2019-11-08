@@ -26,3 +26,4 @@ flashView.start();
 // 停止加载
 flashView.stop();
 ```
+DONE~!
